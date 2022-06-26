@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'air bnb cereal';
+  src: url('../public/fonts/AirbnbCereal_W_Bk.otf');
+}
+:root {
+  --yellow : #EFC81A;
+  --blue: #2E266F;
+  --grey:  #3F3A3A;
+  --faded : #696F79;
+
+}
+* {
+  font-family: 'air bnb cereal';
+}
 html,
 body {
   padding: 0;
